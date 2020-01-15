@@ -7,3 +7,5 @@ video avaliable: https://youtu.be/hgo1tbFBjr8
 <img src="img/demo.PNG" width="500">
 
 <img src="img/sketch.png" width="500">
+
+components: Arduino Mega, IMU6050, encoders, micro servo moters, 3D printed parts
