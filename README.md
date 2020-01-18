@@ -12,3 +12,5 @@ A group project from the course "Microprocessors and Embedded Microcontrollers".
 
 ### Major Components: 
 Arduino Mega, IMU6050, encoders, micro servo moters, 3D printed parts
+
+## See "project Report.pdf" for more details
